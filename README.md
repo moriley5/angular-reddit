@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
-Check out the finished version: [Reddit Clone](https://dist-aqqxupgqyi.now.sh/)
+I deployed it using [Now](https://zeit.co/now), a super quick and easy process. Check out the finished version: [Reddit Clone](https://dist-aqqxupgqyi.now.sh/)
 
 ## Development server
 
